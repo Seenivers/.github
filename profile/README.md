@@ -38,3 +38,7 @@ For any questions, feedback, or inquiries, please reach out:
 - **GitHub Issues**: [Submit an issue or suggestion](https://github.com/Seenivers/Issue-Tracker/issues)
 
 Thank you for your interest in Seenivers!
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](https://github.com/BlackGame-net/.github/blob/main/LICENSE).
