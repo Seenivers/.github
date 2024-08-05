@@ -1,6 +1,6 @@
-# Media Management App
+# Seenivers
 
-Welcome to the Media Management App repository!
+Welcome to the Seenivers repository!
 
 This project aims to provide a comprehensive solution for managing and enjoying your movie and TV series collections. The app is currently in development, and we appreciate your feedback and support.
 
@@ -16,7 +16,7 @@ This project aims to provide a comprehensive solution for managing and enjoying 
 
 ## Issue Tracker
 
-We use this repository to track issues, feature requests, and suggestions for improvements. Your feedback is crucial in shaping the development of this app.
+We use this repository to track issues, feature requests, and suggestions for improvements. Your feedback is crucial in shaping the development of Seenivers.
 
 ### Reporting Issues and Suggestions
 
@@ -24,17 +24,17 @@ We use this repository to track issues, feature requests, and suggestions for im
 - **Feature Requests**: Suggest new features or improvements you would like to see.
 - **Ideas and Wishes**: Share any additional ideas or wishes for the app.
 
-You can report issues or make suggestions by visiting the [Issues-Tracker](https://github.com/BlackGame-net/Issue-Tracker/issues) repository on this website.
+You can report issues or make suggestions by visiting the [Issues-Tracker](https://github.com/Seenivers/Issue-Tracker/issues) repository on this website.
 
 ## Development Status
 
-The Media Management App is currently in development. We are working hard to implement and refine features based on user feedback. Stay tuned for updates and new releases!
+Seenivers is currently in development. We are working hard to implement and refine features based on user feedback. Stay tuned for updates and new releases!
 
-<!-- ## Contact
+## Contact
 
 For any questions, feedback, or inquiries, please reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub Issues**: [Submit an issue or suggestion](https://github.com/yourusername/your-repository/issues) -->
+- **Email**: [Support@Seenivers.com](mailto:Support@Seenivers.com)
+- **GitHub Issues**: [Submit an issue or suggestion](https://github.com/Seenivers/Issue-Tracker/issues)
 
-Thank you for your interest in the Media Management App!
+Thank you for your interest in Seenivers!
