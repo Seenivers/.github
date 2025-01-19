@@ -1,5 +1,7 @@
 # Seenivers
 
+<a href="https://www.producthunt.com/posts/seenivers?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-seenivers" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=796202&theme=neutral&t=1737246966712" alt="Seenivers - Your&#0032;Ultimate&#0032;Collection&#0032;for&#0032;Movies&#0032;and&#0032;TV&#0032;Shows | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 Welcome to the Seenivers repository!
 
 This project aims to provide a comprehensive solution for managing and enjoying your movie and TV series collections. The app is currently in development, and we appreciate your feedback and support.
