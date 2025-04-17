@@ -1,46 +1,50 @@
-# Seenivers
+# ✨ Seenivers
 
-<a href="https://www.producthunt.com/posts/seenivers?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-seenivers" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=796202&theme=neutral&t=1737246966712" alt="Seenivers - Your&#0032;Ultimate&#0032;Collection&#0032;for&#0032;Movies&#0032;and&#0032;TV&#0032;Shows | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+Welcome to **Seenivers** – your ultimate desktop app for managing and playing movies and series locally. Whether you want to keep your entire media library organized, browse in Dark Mode, or enjoy offline playback without an internet connection, Seenivers makes it possible!
 
-Welcome to the Seenivers repository!
+## 🚀 Features
 
-This project aims to provide a comprehensive solution for managing and enjoying your movie and TV series collections. The app is currently in development, and we appreciate your feedback and support.
+- **Media Import & TMDB Data**  
+  Add movies and series and automatically enrich them with cover art, descriptions, and cast info from TMDB.  
+- **Offline Support**  
+  Posters, descriptions and metadata are stored locally—always accessible, even without internet.  
+- **Sort, Search, Filter**  
+  Instantly browse your library by genre, year, rating or title.  
+- **Mark as “Watched”**  
+  Track what you’ve already seen and stay on top of your watch history.  
+- **In-App Updater**  
+  Install updates directly from within the app—no manual downloads required.  
+- **Video Playback**  
+  Built‑in player (Plyr or Vidstack) or open with your favorite media player.  
+- **Discord Rich Presence**  
+  Show your friends what you’re watching right now.  
+- **Dark Mode**  
+  Easy on the eyes—perfect for long binge‑watch sessions.  
+- **Backups & Restore**  
+  Keep your library backed up, configurable right in the app.  
+- **Automatic Updates**  
+  Movies, series and collections keep themselves up to date.  
+- **PIP Mode (Picture‑in‑Picture)**  
+  Continue working, chatting or browsing while your movie plays in a mini‑window.  
+- **Free & Open Source**  
+  Always free to use, with fully open source code on GitHub.  
 
-## Overview
+## 📥 Download & Latest Releases
 
-### Features
+Get the newest version here:  
+➡️ [Seenivers Releases on GitHub](https://github.com/Seenivers/App/releases)
 
-- **Manage Your Media**: Track the movies and TV series you have watched, are currently watching, or plan to watch.
-- **Wishlist and Borrowed Titles**: Keep track of titles you want to watch and manage borrowed or rented media.
-- **Media Playback**: Stream movies or episodes directly from the app or via an external player.
-- **Notifications**: Get updates on new releases and content.
-- **Offline Access**: Enjoy your media offline.
+## 🤝 Contribute & Feedback
 
-## Issue Tracker
+Your ideas make Seenivers better!
 
-We use this repository to track issues, feature requests, and suggestions for improvements. Your feedback is crucial in shaping the development of Seenivers.
+- **Feature Suggestions & Discussions**  
+  Tell us what’s missing or how we can improve:  
+  <https://github.com/orgs/Seenivers/discussions>  
+- **Bugfixes & Pull Requests**  
+  Want to improve the code? Simply fork, tweak, and open a pull request—we’d love your contributions!
 
-### Reporting Issues and Suggestions
+> **Let’s build something awesome together!**  
+> Your feedback and contributions drive Seenivers forward. Thank you for being part of the community! ❤️
 
-- **Issues**: Report any bugs, errors, or problems you encounter.
-- **Feature Requests**: Suggest new features or improvements you would like to see.
-- **Ideas and Wishes**: Share any additional ideas or wishes for the app.
-
-You can report issues or make suggestions by visiting the [Issues-Tracker](https://github.com/Seenivers/Issue-Tracker/issues) repository on this website.
-
-## Development Status
-
-Seenivers is currently in development. We are working hard to implement and refine features based on user feedback. Stay tuned for updates and new releases!
-
-## Contact
-
-For any questions, feedback, or inquiries, please reach out:
-
-- **Email**: [Support@Seenivers.com](mailto:Support@Seenivers.com)
-- **GitHub Issues**: [Submit an issue or suggestion](https://github.com/Seenivers/Issue-Tracker/issues)
-
-Thank you for your interest in Seenivers!
-
-## License
-
-This project is licensed under the [GNU General Public License v3.0](https://github.com/BlackGame-net/.github/blob/main/LICENSE).
+*Seenivers – your local movie & series hub.*  
