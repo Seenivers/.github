@@ -44,6 +44,11 @@ Your ideas make Seenivers better!
 - **Bugfixes & Pull Requests**  
   Want to improve the code? Simply fork, tweak, and open a pull request—we’d love your contributions!
 
+## 📜 License
+
+This project is licensed under the **GNU General Public License v3.0**.  
+🔗 <https://github.com/Seenivers/.github/blob/main/LICENSE>
+
 > **Let’s build something awesome together!**  
 > Your feedback and contributions drive Seenivers forward. Thank you for being part of the community! ❤️
 
