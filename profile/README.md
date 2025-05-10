@@ -30,12 +30,36 @@ Welcome to **Seenivers** – your ultimate desktop app for managing and playing 
   Available in multiple languages — help us translate Seenivers via Crowdin!  
   🔗 [Contribute translations on Crowdin](https://crowdin.com/project/seenivers)  
 - **Free & Open Source**  
-  Always free to use, with fully open source code on GitHub.  
+  Always free to use, with fully open source code on GitHub.
 
 ## 📥 Download & Latest Releases
 
 Get the newest version here:  
 ➡️ [Seenivers Releases on GitHub](https://github.com/Seenivers/App/releases)
+
+## 📸 Screenshots
+
+A few impressions of Seenivers in action:
+
+### 🏠 Main View  
+
+![Main View](../imgs/main.png)
+
+### 🎥 Movie Detail  
+
+![Movie Detail](../imgs/movie.png)
+
+### 📺 TV Show Detail  
+
+![TV Show Detail](../imgs/tv.png)
+
+### 📂 Collection View  
+
+![Collection View](../imgs/collection.png)
+
+### ➕ Add New Media  
+
+![Add New Media](../imgs/add.png)
 
 ## 🤝 Contribute & Feedback
 
@@ -49,10 +73,11 @@ Your ideas make Seenivers better!
 
 ## 📜 License
 
-This project is licensed under the **GNU General Public License v3.0**.  
-🔗 <https://github.com/Seenivers/.github/blob/main/LICENSE>
+Seenivers is licensed under the **GNU General Public License v3.0**  
+🔗 [View License](https://github.com/Seenivers/.github/blob/main/LICENSE)
 
-> **Let’s build something awesome together!**  
+---
+
 > Your feedback and contributions drive Seenivers forward. Thank you for being part of the community! ❤️
 
-*Seenivers – your local movie & series hub.*  
+*Seenivers – your local movie & series hub.*
