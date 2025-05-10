@@ -21,11 +21,14 @@ Welcome to **Seenivers** – your ultimate desktop app for managing and playing 
 - **Dark Mode**  
   Easy on the eyes—perfect for long binge‑watch sessions.  
 - **Backups & Restore**  
-  Keep your library backed up, configurable right in the app.  
+  Keep your library backed up, configurable right in the app — including **automatic backups** if you like.  
 - **Automatic Updates**  
   Movies, series and collections keep themselves up to date.  
 - **PIP Mode (Picture‑in‑Picture)**  
   Continue working, chatting or browsing while your movie plays in a mini‑window.  
+- **i18n (Internationalization)**  
+  Available in multiple languages — help us translate Seenivers via Crowdin!  
+  🔗 [Contribute translations on Crowdin](https://crowdin.com/project/seenivers)  
 - **Free & Open Source**  
   Always free to use, with fully open source code on GitHub.  
 
