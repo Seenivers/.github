@@ -16,8 +16,6 @@ Welcome to **Seenivers** – your ultimate desktop app for managing and playing 
   Install updates directly from within the app—no manual downloads required.  
 - **Video Playback**  
   Built‑in player (Plyr or Vidstack) or open with your favorite media player.  
-- **Discord Rich Presence**  
-  Show your friends what you’re watching right now.  
 - **Dark Mode**  
   Easy on the eyes—perfect for long binge‑watch sessions.  
 - **Backups & Restore**  
