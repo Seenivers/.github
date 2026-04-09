@@ -25,8 +25,7 @@ Welcome to **Seenivers** – your ultimate desktop app for managing and playing 
 - **PIP Mode (Picture‑in‑Picture)**  
   Continue working, chatting or browsing while your movie plays in a mini‑window.  
 - **i18n (Internationalization)**  
-  Available in multiple languages — help us translate Seenivers via Crowdin!  
-  🔗 [Contribute translations on Crowdin](https://crowdin.com/project/seenivers)  
+  Available in multiple languages.
 - **Free & Open Source**  
   Always free to use, with fully open source code on GitHub.
 
