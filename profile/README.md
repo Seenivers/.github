@@ -1,80 +1,83 @@
 # ✨ Seenivers
 
-Welcome to **Seenivers** – your ultimate desktop app for managing and playing movies and series locally. Whether you want to keep your entire media library organized, browse in Dark Mode, or enjoy offline playback without an internet connection, Seenivers makes it possible!
+Seenivers is a desktop application for managing and playing a local movie and series library.
+
+The project was developed as a personal open-source project and is now **no longer under active development**. The final release is maintained as the project's last stable state for reference, personal use, and portfolio purposes.
+
+## 📌 Project Status
+
+**Seenivers is archived and no longer actively developed.**
+
+The final maintenance release focuses on preserving the existing application in a clean and reproducible state. No further feature development, platform expansion, or major architectural changes are planned.
+
+The application currently supports:
+
+* **Windows 10 / 11** — supported
+* **Linux** — currently unsupported
+* **macOS** — untested
+
+Seenivers depends on its web/API infrastructure for parts of its metadata and synchronization functionality. The associated infrastructure may be discontinued in the future, which can affect functionality of existing application versions.
 
 ## 🚀 Features
 
-- **Media Import & TMDB Data**  
-  Add movies and series and automatically enrich them with cover art, descriptions, and cast info from TMDB.  
-- **Offline Support**  
-  Posters, descriptions and metadata are stored locally—always accessible, even without internet.  
-- **Sort, Search, Filter**  
-  Instantly browse your library by genre, year, rating or title.  
-- **Mark as “Watched”**  
-  Track what you’ve already seen and stay on top of your watch history.  
-- **In-App Updater**  
-  Install updates directly from within the app—no manual downloads required.  
-- **Video Playback**  
-  Built‑in player (Plyr or Vidstack) or open with your favorite media player.  
-- **Dark Mode**  
-  Easy on the eyes—perfect for long binge‑watch sessions.  
-- **Backups & Restore**  
-  Keep your library backed up, configurable right in the app — including **automatic backups** if you like.  
-- **Automatic Updates**  
-  Movies, series and collections keep themselves up to date.  
-- **PIP Mode (Picture‑in‑Picture)**  
-  Continue working, chatting or browsing while your movie plays in a mini‑window.  
-- **i18n (Internationalization)**  
-  Available in multiple languages.
-- **Free & Open Source**  
-  Always free to use, with fully open source code on GitHub.
+* Media library management for movies and series
+* TMDB metadata and artwork
+* Local metadata storage
+* Search, sorting and filtering
+* Watched status and watch history
+* Local video playback
+* Picture-in-Picture mode
+* Automatic backups and restore
+* In-app updates
+* Multiple language support
+* Open-source codebase
 
-## 📥 Download & Latest Releases
+## 📥 Final Release
 
-Get the newest version here:  
-➡️ [Seenivers Releases on GitHub](https://github.com/Seenivers/App/releases)
+The latest and final release is available here:
+
+[Seenivers Releases on GitHub](https://github.com/Seenivers/App/releases)
+
+## 📦 Repositories
+
+The Seenivers organization contains the different components of the project:
+
+* [App](https://github.com/Seenivers/App) — Desktop application
+* [Website](https://github.com/Seenivers/Website) — Website
+* [api](https://github.com/Seenivers/api) — API
+* [db](https://github.com/Seenivers/db) — Database schema and migrations
+* [Seenivers](https://github.com/Seenivers/Seenivers) — Organization/project resources
+* [.github](https://github.com/Seenivers/.github) — Organization configuration and documentation
+* [Issue-Tracker](https://github.com/Seenivers/Issue-Tracker) — Project issue tracking
 
 ## 📸 Screenshots
 
-A few impressions of Seenivers in action:
-
-### 🏠 Main View  
+### Main View
 
 ![Main View](../imgs/main.png)
 
-### 🎥 Movie Detail  
+### Movie Detail
 
 ![Movie Detail](../imgs/movie.png)
 
-### 📺 TV Show Detail  
+### TV Show Detail
 
 ![TV Show Detail](../imgs/tv.png)
 
-### 📂 Collection View  
+### Collection View
 
 ![Collection View](../imgs/collection.png)
 
-### ➕ Add New Media  
+### Add New Media
 
 ![Add New Media](../imgs/add.png)
 
-## 🤝 Contribute & Feedback
-
-Your ideas make Seenivers better!
-
-- **Feature Suggestions & Discussions**  
-  Tell us what’s missing or how we can improve:  
-  <https://github.com/orgs/Seenivers/discussions>  
-- **Bugfixes & Pull Requests**  
-  Want to improve the code? Simply fork, tweak, and open a pull request—we’d love your contributions!
-
 ## 📜 License
 
-Seenivers is licensed under the **GNU General Public License v3.0**  
-🔗 [View License](https://github.com/Seenivers/.github/blob/main/LICENSE)
+Seenivers is licensed under the **GNU General Public License v3.0**.
+
+[View License](https://github.com/Seenivers/.github/blob/main/LICENSE)
 
 ---
 
-> Your feedback and contributions drive Seenivers forward. Thank you for being part of the community! ❤️
-
-*Seenivers – your local movie & series hub.*
+Seenivers was developed as a personal project and is preserved as a reference for its architecture, implementation, and development history.
